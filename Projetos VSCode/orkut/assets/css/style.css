@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background: #D3DCED;
+}
+
+.allisite {
+    width: 100%;
+    height: 100vh;
+}
+
+.contall {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuorkut {
+    Width: 843px;
+    Height: 552px;
+    background: #FDFDFD;
+}
+
+.menudados {
+    Width: 492px;
+    Height: 427px;
+    background: #E9EBF8;
+}
+
+.menuentrar {
+    Width: 492px;
+    Height: 110px;
+    background: #E9EDF9;
+}
+
+#entrar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
